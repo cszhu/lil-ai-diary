@@ -4,7 +4,9 @@
 
 The **Personal AI Diary** is a coding project I implemented incorporating journal-type user input and AI. The system facilitates users to log their thoughts, which then generates a related AI response powered by OpenAI's GPT-3 model. Currently, the application doesn't store any user data, ensuring absolute privacy.
 
-In essence, it's a programming sandbox for introspection, where users input their thoughts and receive insightful machine-generated responses that can provide new perspectives. A key point to note is that on refresh, entries are not retained. For the future iterations of this project, I aim to include Stytch authentication and add a feature to store user sessions and diary entries in a database, giving users a seamless and more interactive experience.
+In essence, it's a programming sandbox for introspection, where users input their thoughts and receive insightful machine-generated responses that can provide new perspectives. A key point to note is that on refresh, entries are not retained. 
+
+For the future iterations of this project, I aim to include a feature to store user sessions and diary entries in a database, giving users a seamless and more interactive experience. As it already uses Stytch's login and authentication process, hopefully this won't be too much trouble beyond setting up a db (or at the very least storing in a user's local browser storage).
 
 This project was initialized using the [Stytch](https://stytch.com) + [Next.js](https://nextjs.org/) demo project, derived from [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). 
 
