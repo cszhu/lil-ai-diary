@@ -1,5 +1,7 @@
 # Personal AI Diary
 
+![Personal AI Diary Screenshot](https://media.discordapp.net/attachments/670227543688740864/1130774466557923398/image.png)
+
 The **Personal AI Diary** is a coding project I implemented incorporating journal-type user input and AI. The system facilitates users to log their thoughts, which then generates a related AI response powered by OpenAI's GPT-3 model. Currently, the application doesn't store any user data, ensuring absolute privacy.
 
 In essence, it's a programming sandbox for introspection, where users input their thoughts and receive insightful machine-generated responses that can provide new perspectives. A key point to note is that on refresh, entries are not retained. For the future iterations of this project, I aim to include Stytch authentication and add a feature to store user sessions and diary entries in a database, giving users a seamless and more interactive experience.
